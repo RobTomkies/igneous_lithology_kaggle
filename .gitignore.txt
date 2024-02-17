@@ -1,0 +1,8 @@
+# Temporary files
+*.tmp
+
+# IDE related files
+.idea/
+
+# Virtual environment
+venv/
